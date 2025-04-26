@@ -2,4 +2,5 @@
 #### findsomething
 一款浏览器插件，能收集网页中的各种接口。联动BurpSuite，Yakit进行有效的信息收集工作
 ** 参考文章 **
-https://blog.csdn.net/weixin_45802999/article/details/137929524
+联动Burp https://blog.csdn.net/weixin_45802999/article/details/137929524
+联动Yakit https://blog.csdn.net/weixin_58456542/article/details/144961567
